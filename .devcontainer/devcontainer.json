@@ -1,0 +1,8 @@
+{
+	"name": "Ubuntu",
+	"image": "nicolasriss/ig-loader:0.0.1",
+
+	"postCreateCommand": "chmod +x _updatePublisher.sh _genonce.sh",
+
+	"remoteUser": "root"
+}
