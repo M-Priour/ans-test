@@ -1,4 +1,4 @@
-name: MessagingCore-ghpages
+name: ghpages
 
 on:
   push:
