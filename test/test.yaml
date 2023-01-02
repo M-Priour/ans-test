@@ -3,7 +3,6 @@ validator:
   version: "4.0"
   ig:
     - ../fsh-generated/resources
-    - hl7.fhir.us.core#1.0.1
   tx: http://tx.fhir.org
   txLog: logs/tx.txt
   sct: us
