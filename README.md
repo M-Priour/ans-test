@@ -1,4 +1,4 @@
-[![sushi](https://github.com/M-Priour/ans-test/actions/workflows/checkFSH.yml/badge.svg)](https://github.com/M-Priour/ans-test/actions/workflows/checkFSH.yml)
+[![sushi](https://github.com/M-Priour/ans-test/actions/workflows/checkFSH.yml/badge.svg?branch=main)](https://github.com/M-Priour/ans-test/actions/workflows/checkFSH.yml)
 [![fhir-validator-junit-engine](https://github.com/M-Priour/ans-test/actions/workflows/fhir-validator-junit-engine.yaml/badge.svg)](https://github.com/M-Priour/ans-test/actions/workflows/fhir-validator-junit-engine.yaml)
 [![ghpages](https://github.com/M-Priour/ans-test/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/M-Priour/ans-test/actions/workflows/gh-pages.yml)
 # Description
