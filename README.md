@@ -1,5 +1,6 @@
 [![sushi](https://github.com/M-Priour/ans-test/actions/workflows/checkFSH.yml/badge.svg)](https://github.com/M-Priour/ans-test/actions/workflows/checkFSH.yml)
 [![fhir-validator-junit-engine](https://github.com/M-Priour/ans-test/actions/workflows/fhir-validator-junit-engine.yaml/badge.svg)](https://github.com/M-Priour/ans-test/actions/workflows/fhir-validator-junit-engine.yaml)
+[![ghpages](https://github.com/M-Priour/ans-test/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/M-Priour/ans-test/actions/workflows/gh-pages.yml)
 # Description
 Ceci est exemple d'ImplementationGuide très simplifié qui servira de template pour les prochains développement d'IGs. Pour créer un nouvel IG, il suffit de forker ce document, puis de faire les modifications :
 
