@@ -8,7 +8,7 @@ Description:    "Description du patient français"
 // Extensions
 * extension contains EyeColor named eyecolor 0..1
  
-* extension[eyecolor] MS
+* extension[eyecoor] MS
 * extension[eyecolor] ^short = "Eye color of the patient"
 
 * identifier ^slicing.discriminator.type = #pattern
