@@ -55,7 +55,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: igs/output
+          publish_dir: ./output
           destination_dir: igs/
           exclude_assets: '**.zip,**.tgz,**.pack'
           commit_message: ' ${{ github.event.head_commit.message }}'
